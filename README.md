@@ -18,8 +18,8 @@ This project analyzes personal finance transactions using Microsoft Excel. It tr
   - Pivot Tables  
   - SUMIFS and other formulas  
   - Charts and conditional formatting
-
-## 📂 Project Structure
+- Flat Icon
+- Image Colur Picker
 
 
 ## ✅ General Recommendations
