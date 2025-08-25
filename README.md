@@ -1,6 +1,7 @@
 # Sophy-s-Finance-Tracker
 A personal finance analysis project using Excel to track income, spending, and trends by month and category, with insights and recommendations.
 # 📊 Personal Finance Analysis (Excel Project)
+https://github.com/username/repo-name/assets/12345678/abcdef.png
 
 This project analyzes personal finance transactions using Microsoft Excel. It tracks income, expenses, and spending patterns by category, month, and weekday. The goal is to identify financial habits and provide practical recommendations for better budgeting and saving.
 
